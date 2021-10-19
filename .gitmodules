@@ -1,0 +1,3 @@
+[submodule "NX3PSU-MK1FWv1-HTML"]
+	path = NX3PSU-MK1FWv1-HTML
+	url = git@github.com:di-delta9/NX3PSU-MK1FWv1-HTML.git
